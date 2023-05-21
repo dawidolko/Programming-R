@@ -14,7 +14,7 @@ Repozytorium R Programming zawiera przykładowe projekty, skrypty i materiały e
 Sklonuj repozytorium na swój lokalny komputer:
 
 ```
-git clone https://github.com/twoj-uzytkownik/r-programming.git
+git clone https://github.com/dawidolko/Programming-R.git
 ```
 
 Przeglądaj dostępne projekty, skrypty i materiały w odpowiednich folderach.
