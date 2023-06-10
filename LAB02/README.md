@@ -8,4 +8,4 @@ c) wspolczynnik zmiennosci\
 d) mediana\
 e) kwartyle\
 f) minimum\
-g) maksimum\
+g) maksimum
