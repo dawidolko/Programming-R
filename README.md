@@ -33,5 +33,3 @@ Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy
 
 Jeśli masz pytania lub potrzebujesz pomocy, możesz skontaktować się ze mną poprzez e-mail lub przez platformę GitHub.
 
-## **Licencja**
-Ten projekt jest objęty licencją MIT. Zapraszam do zapoznania się z pełnym tekstem licencji przed korzystaniem z tego repozytorium.
