@@ -1,35 +1,34 @@
 # **Programming-R**
 
-## **Opis:**
-Repozytorium R Programming zawiera przykładowe projekty, skrypty i materiały edukacyjne związane z językiem programowania R. R jest językiem do analizy danych i tworzenia statystycznych modeli obliczeniowych. To wszechstronne narzędzie, które jest szeroko wykorzystywane przez naukowców danych, statystyków i badaczy.
+## **Description:**
+The R Programming repository contains example projects, scripts, and educational materials related to the R programming language. R is a language for analyzing data and creating statistical computational models. It is a versatile tool that is widely used by data scientists, statisticians and researchers.
 
-## **Struktura Repozytorium:**
-/Projekty: Ten folder zawiera różne projekty, w których wykorzystuje się język R. Każdy projekt posiada swój własny folder z opisem i kodem źródłowym.
+## **Repository Structure:**
+/Projects: This folder contains various projects that use the R language. Each project has its own folder with description and source code.
 
-/Lab: W tym folderze znajdują się przydatne skrypty i narzędzia programistyczne, które mogą ułatwić pracę z językiem R.
+/Lab: This folder contains useful scripts and development tools that can help you work with R.
 
-/Materiały: Tutaj znajdują się różnego rodzaju materiały edukacyjne, takie jak prezentacje, tutoriale, dokumentacja i artykuły związane z językiem R.
+/Resources: This is where you can find all sorts of educational materials such as R presentations, tutorials, documentation, and articles.
 
-## **Jak zacząć:**
-Sklonuj repozytorium na swój lokalny komputer:
+## **How ​​to start:**
+Clone the repository to your local computer:
 
 ```
 git clone https://github.com/dawidolko/Programming-R.git
 ```
 
-Przeglądaj dostępne projekty, skrypty i materiały w odpowiednich folderach.
+Browse available projects, scripts and materials in their respective folders.
 
-Wypróbuj kod źródłowy i eksperymentuj z językiem R na podstawie dostępnych przykładów.
+Try the source code and experiment with R using the available examples.
 
-## **Wymagania systemowe**
-Aby korzystać z języka R, potrzebujesz zainstalowanego oprogramowania R i środowiska programistycznego RStudio na swoim komputerze. Możesz je pobrać ze stron:
+## **System requirements**
+To use R, you need R software and the RStudio development environment installed on your computer. You can download them from the sites:
 
 R: [The R Project for Statistical Computing](https://www.r-project.org)
 
 RStudio: [RStudio](https://posit.co)
 
-## **Wkład i Wsparcie:**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty, które wykorzystują język R. Wszelkie wkłady są mile widziane!
+## **Contribution & Support:**
+If you want to contribute to this repository, you can report issues, create pull requests, or share your own projects that use R. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, możesz skontaktować się ze mną poprzez e-mail lub przez platformę GitHub.
-
+If you have questions or need help, you can contact me via email or GitHub.
