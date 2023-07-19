@@ -2,7 +2,7 @@
 redirect_to: r.dawidolko.pl
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=000000&width=600&height=100&lines=J%C4%99zyk+R)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=000000&width=600&height=100&lines=J%C4%99zyk+R)](https://github.com/dawidolko/Programming-R)
 <br>![R](r.png)
 
 ## Spis treści:
