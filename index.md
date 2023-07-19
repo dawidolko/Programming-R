@@ -23,12 +23,12 @@ redirect_to: r.dawidolko.pl
 
 <br>
 
-**[Lab03](LAB03/README.md) - Zajęcia 4
+**[Lab03](LAB03/README.md) - Zajęcia 4**
  - [Rozwiązane zadania](https://github.com/dawidolko/Programming-R/tree/main/LAB03)
 
 <br>
 
-**[Lab04](LAB04/README.md) - Zajęcia 5*
+**[Lab04](LAB04/README.md) - Zajęcia 5**
  - [Rozwiązane zadania](https://github.com/dawidolko/Programming-R/blob/main/LAB04/TASK.R)
 
 <br>
