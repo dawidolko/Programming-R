@@ -12,18 +12,22 @@ redirect_to: r.dawidolko.pl
  - [Rozwiązane zadania](https://github.com/dawidolko/Programming-R/blob/main/LAB00/TASK.R)
 
 <br>
+
 **[Lab01](LAB01/README.md) - Zajęcia 2**
  - [Rozwiązane zadania](https://github.com/dawidolko/Programming-R/tree/main/LAB001)
 
 <br>
+
 **[Lab02](LAB02/README.md) - Zajęcia 3**
  - [Rozwiązane zadania](https://github.com/dawidolko/Programming-R/blob/main/LAB02/TASK.r)
 
 <br>
+
 **[Lab03](LAB03/README.md) - Zajęcia 4
  - [Rozwiązane zadania](https://github.com/dawidolko/Programming-R/tree/main/LAB03)
 
 <br>
+
 **[Lab04](LAB04/README.md) - Zajęcia 5*
  - [Rozwiązane zadania](https://github.com/dawidolko/Programming-R/blob/main/LAB04/TASK.R)
 
